@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Last Smile",
+  "base_artist": "LOVE PSYCHEDELICO",
+  "createdAt": "2026-03-04T02:54:56.392000Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Yasashiku Last Smile",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/01_Yasashiku_Last_Smile_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Last Smile",
+      "artist": "LOVE PSYCHEDELICO",
+      "has_synced": true,
+      "path": "select/02_Last_Smile_LOVE_PSYCHEDELICO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Last Smile",
+      "artist": "やなぎなぎ",
+      "has_synced": true,
+      "path": "select/03_Last_Smile_やなぎなぎ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Last Smile",
+      "artist": "Jun Maeda & yanaginagi",
+      "has_synced": true,
+      "path": "select/04_Last_Smile_Jun_Maeda_&_yanaginagi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Last Smile - Remastered 2020",
+      "artist": "LOVE PSYCHEDELICO",
+      "has_synced": true,
+      "path": "select/05_Last_Smile_-_Remastered_2020_LOVE_PSYCHEDELICO.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Last Smile",
+      "artist": "LOVE PSYCHEDELICO",
+      "has_synced": true,
+      "path": "select/06_Last_Smile_LOVE_PSYCHEDELICO.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Last Smile",
+      "artist": "Amber Kuo",
+      "has_synced": true,
+      "path": "select/07_Last_Smile_Amber_Kuo.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "one last smile",
+      "artist": "allan taylor",
+      "has_synced": false,
+      "path": "select/08_one_last_smile_allan_taylor.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "優しくLAST SMILE - Yasashiku Last Smile",
+      "artist": "ずっと真夜中でいいのに。 - ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/09_優しくLAST_SMILE_-_Yasashiku_Last_Smile_ずっと真夜中でいいのに。_-_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Last Smile (extension mix)",
+      "artist": "Love Psychedelico",
+      "has_synced": true,
+      "path": "select/10_Last_Smile_(extension_mix)_Love_Psychedelico.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Last Smile",
+      "artist": "yanaginagi",
+      "has_synced": true,
+      "path": "select/11_Last_Smile_yanaginagi.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Last Smile (extension mix)",
+      "artist": "Love Psychedelico",
+      "has_synced": true,
+      "path": "select/12_Last_Smile_(extension_mix)_Love_Psychedelico.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "優しくLAST SMILE - Yasashiku Last Smile",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/13_優しくLAST_SMILE_-_Yasashiku_Last_Smile_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Last Smile",
+      "artist": "Love Psychedelico",
+      "has_synced": true,
+      "path": "select/14_Last_Smile_Love_Psychedelico.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Last Smile",
+      "artist": "麻枝准 x やなぎなぎ",
+      "has_synced": true,
+      "path": "select/15_Last_Smile_麻枝准_x_やなぎなぎ.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "LAST SMILE “style GR”",
+      "artist": "GRANRODEO",
+      "has_synced": false,
+      "path": "select/16_LAST_SMILE_“style_GR”_GRANRODEO.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Last Smile",
+      "artist": "Love Psychedelico",
+      "has_synced": false,
+      "path": "select/pl_01_Last_Smile_Love_Psychedelico.txt"
+    }
+  ]
+}
